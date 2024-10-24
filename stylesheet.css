@@ -1,0 +1,42 @@
+/* 1. CSS Selector applied to <h1> tag */
+h1 {
+    color: navy; /* Change the text color */
+    text-align: center; /* Center the text */
+}
+
+/* 2. Class Selector for .content-section */
+.content-section {
+    background-color: #f0f0f0; /* Background color */
+    padding: 20px; /* Box Model Property: Padding */
+    margin: 10px; /* Box Model Property: Margin */
+    border: 2px solid #ccc; /* Box Model Property: Border */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* 3. ID Selector for #header */
+#header {
+    background-color: #333;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+/* ID Selector for #footer */
+#footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+/* 5. Link Styling */
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+/* 6. Change <a> color on hover */
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
