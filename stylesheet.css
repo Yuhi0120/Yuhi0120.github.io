@@ -1,19 +1,20 @@
-/* 1. Use a CSS selector to apply style(s) to at least one HTML tag. */
+/* Use a CSS selector to apply style(s) to at least one HTML tag.*/
 h1 {
     color: navy; 
     text-align: center;
 }
 
-/* 2. Class Selector for .content-section */
+/* Create at least one class, apply it to at least two elements, and style it */
+/*Change at least two box model properties of any tag, class, or id. */
 .content-section {
-    background-color: #f0f0f0; /* Background color */
-    padding: 20px; /* Box Model Property: Padding */
-    margin: 10px; /* Box Model Property: Margin */
-    border: 2px solid #ccc; /* Box Model Property: Border */
-    border-radius: 5px; /* Rounded corners */
+    background-color: #f0f0f0; 
+    padding: 20px;
+    margin: 10px; 
+    border: 2px solid #ccc; 
+    border-radius: 5px; 
 }
 
-/* 3. ID Selector for #header */
+/* Create at least one id, apply it to an element, and style it. */
 #header {
     background-color: #615858;
     color: white;
@@ -21,7 +22,7 @@ h1 {
     text-align: center;
 }
 
-/* ID Selector for #footer */
+/* Create at least one id, apply it to an element, and style it. */
 #footer {
     background-color: #615858;
     color: white;
