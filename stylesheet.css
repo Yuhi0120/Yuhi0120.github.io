@@ -1,7 +1,7 @@
-/* 1. CSS Selector applied to <h1> tag */
+/* 1. Use a CSS selector to apply style(s) to at least one HTML tag. */
 h1 {
-    color: navy; /* Change the text color */
-    text-align: center; /* Center the text */
+    color: navy; 
+    text-align: center;
 }
 
 /* 2. Class Selector for .content-section */
@@ -15,7 +15,7 @@ h1 {
 
 /* 3. ID Selector for #header */
 #header {
-    background-color: #333;
+    background-color: #4f4242;
     color: white;
     padding: 15px;
     text-align: center;
