@@ -45,11 +45,6 @@ h1 {
     text-decoration: none;
 }
 
-/* 5. Link Styling */
-a {
-    color: rgb(35, 108, 153);
-    text-decoration: none;
-}
 
 /* 6. Change <a> color on hover */
 a:hover {
