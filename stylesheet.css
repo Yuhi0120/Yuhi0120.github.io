@@ -29,6 +29,22 @@ h1 {
     text-align: center;
 }
 
+/* Center the image in #footer */
+#footer img {
+    display: block;
+    margin: 0 auto; /* This centers the image horizontally */
+    width: 300px; /* Define width to control image size */
+    height: auto; /* Maintain aspect ratio */
+}
+
+/* Add margin to the link to avoid overlap with the image */
+#footer a {
+    display: block;
+    margin-bottom: 10px; /* Creates space between the link and the image */
+    color: rgb(35, 108, 153); /* Link color */
+    text-decoration: none;
+}
+
 /* 5. Link Styling */
 a {
     color: rgb(35, 108, 153);
