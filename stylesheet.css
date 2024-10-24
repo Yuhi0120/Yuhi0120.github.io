@@ -47,7 +47,7 @@ h1 {
 
 
 /* 6. Change <a> color on hover */
-a:hover {
+#footer a:hover {
     color: red;
     text-decoration: underline;
 }
